@@ -1,6 +1,6 @@
 # MQTT file transfer
 
-#### A simple script to transfer files using MQTT.
+#### Simple scripts to transfer files using MQTT.
 
 #### Implemented features include: resuming upload, Encrypted transmission, compressed transmission, transmission performance visualization
 
