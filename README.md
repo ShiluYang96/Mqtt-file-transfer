@@ -35,7 +35,7 @@ python download_server.py -p ./signal_data/sample
 ### b. run upload server
 
 ```
-python download_server.py -p ./signal_data/sample
+python upload_server.py -p ./signal_data/sample
 ```
 
 ## Reference
